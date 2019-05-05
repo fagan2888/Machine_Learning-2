@@ -11,3 +11,5 @@ Forcomparison, also report the parameters of ordinary least squares on this data
 
 (c)Generate  a  single  plot  that  shows  the  data,  the  true  line,  the  OLS  estimate,  and  the  robustestimate.  
 Create a legend and use different line styles.
+
+![](img5.png)
