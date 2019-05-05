@@ -1,4 +1,4 @@
-# Images in Readme
+# Subgradient methods for the optimal soft margin hyperplane
 
 <img src="images/img1.png">
 
