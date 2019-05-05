@@ -1,5 +1,4 @@
 In this problem you will compare least-squares and robust regression on a synthetic data set.  
-We provide acode skeleton for you below, in Matlab and Python.  
 The first part creates a data set for linear regression.
 Most of the data come from an upward sloping line plus noise, but a fraction (thought of as outliers) come from a downward sloping line.
 
